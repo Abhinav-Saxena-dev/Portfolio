@@ -1,0 +1,16 @@
+.entry{
+    width: 100%;
+
+    .entries{
+        display: flex;
+        justify-content: space-around;
+        flex-direction: row;
+        border: 1px solid white;
+
+        .field{
+            font-size: 20px;
+            color : rgb(154, 134, 253);
+            margin: 0% 8%;
+        }
+    }
+}
